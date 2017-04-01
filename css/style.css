@@ -1,0 +1,79 @@
+.loginform{
+width:960px;
+margin:20px auto;
+padding-top:20px;
+font-family: 'Fauna One', serif;
+}
+#form{
+border-radius:2px;
+padding:120px 120px;
+box-shadow:0 0 15px;
+font-size:14px;
+font-weight:bold;
+width:350px;
+margin:50px 250px 0 120px;
+float:left;
+background-color: cornsilk;
+
+}
+
+button{
+	margin-top: 10px;
+}
+#btn1{
+    width: 40%;
+    margin-left: 15px;
+    height: 30px;
+}
+#btn2{
+	width: 40%;
+    margin-left: 50px;
+    height: 30px;
+}
+input{
+width:100%;
+height:35px;
+margin-top:5px;
+border:1px solid #999;
+border-radius:3px;
+padding:5px;
+margin-bottom: 20px;
+}
+input[type=button]{
+background-color:#123456;
+border:1px solid white;
+font-family: 'Fauna One', serif;
+font-Weight:bold;
+font-size:18px;
+color:white;
+}
+textarea{
+width:100%;
+height:80px;
+margin-top:5px;
+border-radius:3px;
+padding:5px;
+resize:none;
+}
+.text-center{
+	text-align: center;
+	color: lightsalmon;
+}
+.word-counter{
+	width: 50%;
+	margin-left: 25%;
+}
+.datepicker{
+	width: 40%;
+	margin-left: 25%;
+}
+.tabs-jquery{
+	width: 50%;
+	margin-left: 26%;
+	border:2px solid lightgrey;
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
